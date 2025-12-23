@@ -18,11 +18,11 @@ I am a Computer Engineer transitioning into the world of Data Science, Machine L
 
 ### 🚀 What I'm working on
 
-- 📊 **Data Science & EDA:** Analyzing complex datasets to extract actionable business insights.  
-- 🤖 **AI & LLM Applications:** Building tools that leverage Large Language Models for automated analysis and intelligent interactions, including:  
+- **Data Science & EDA:** Analyzing complex datasets to extract actionable business insights.  
+- **AI & LLM Applications:** Building tools that leverage Large Language Models for automated analysis and intelligent interactions, including:  
   - Using LLMs to analyze financial statements and unstructured text  
   - Small automation tools to speed up analysis workflows  
-- 📱 **Full‑Stack Development:** Experience with React, React Native, Java, Spring Boot, Python, and modern web technologies.
+- **Full‑Stack Development:** Experience with React, React Native, Java, Spring Boot, Python, and modern web technologies.
 
 ---
 
