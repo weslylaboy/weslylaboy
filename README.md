@@ -2,7 +2,7 @@
 
 **Computer Engineer | Machine Learning & AI Student | AI Enthusiast**
 
-I am a Computer Engineer transitioning into the world of Data Science, Machine Learning, and Artificial Intelligence. My background in engineering gives me a solid foundation in problem-solving and systems architecture, which I now apply to building intelligent, data-driven solutions.
+I am a Computer Engineer transitioning into the world of Data Science, Machine Learning, and Artificial Intelligence. My background in engineering gives me a solid foundation in problem solving and systems architecture, which I now apply to building intelligent, data driven solutions.
 
 ---
 
@@ -37,7 +37,7 @@ I am a Computer Engineer transitioning into the world of Data Science, Machine L
 
 ### 🧩 How I work
 
-- Comfortable working in Agile/Scrum teams with sprints, stand‑ups, and iterative delivery.  
+- Comfortable working in Agile/Scrum teams with sprints, standups, and iterative delivery.  
 - Used to code reviews, version control best practices, and continuous learning.
 
 
